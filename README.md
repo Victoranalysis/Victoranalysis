@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data analysis
 - 🌱 I’m currently learning data analysis
 - 💞️ I’m looking to collaborate on data analysis projects
-- 📫 How to reach me +2349151978578 or realvoib@gmail.co
+- 📫 How to reach me +2349151978578 or ikebudevictoranalytics@gmail.com
 
 <!---
 Victoranalysis/Victoranalysis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
