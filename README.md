@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Victoranalysis
-- 👀 I’m interested in Data analysis
-- 🌱 I’m currently learning data analysis
-- 💞️ I’m looking to collaborate on data analysis projects
+- 👀 I’m interested in Machine and Deep learning 
+- 💞️ I’m looking to collaborate machine learning projects
 - 📫 How to reach me +2349151978578 or ikebudevictoranalytics@gmail.com
 
 <!---
